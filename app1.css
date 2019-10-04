@@ -1,0 +1,57 @@
+body{    
+    background-image: url(logoinsta.jpg);
+    background-size: 51px;
+    width: 100%;
+    height: 100%;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    font-family: fantasy;
+    font-size: 320%;
+    text-align: center;
+    padding: 2px;
+}
+H3{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 40px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: url(gif.jpg);
+    background-size: cover;
+}
+h5{
+    text-align: left;
+    font-family: fantasy;
+    font-size: 30px;
+}
+header{
+    background-image:url(gif.jpg);
+    background-size: cover;
+    background-size: 100%;
+    border-radius: 15px;
+    padding: 60px;
+    margin-bottom: 10px;
+}
+.section{
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.submit{
+    background-image: url(gif.jpg);
+    padding: 12px 40px;
+    border-radius: 3px;
+    font-family: fantasy;
+    cursor: pointer;
+    color: black;
+    border: none;
+    outline: none;
+    margin:0;
+    
+}
+#screen_insta
+{
+    position: absolute;
+    top: 6em;
+    left: 20em;
+}
